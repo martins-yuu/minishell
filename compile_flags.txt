@@ -1,0 +1,4 @@
+-I
+lib/libft/include
+-I
+src
